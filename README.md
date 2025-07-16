@@ -1,11 +1,15 @@
 <!-- Banner Image -->
 <p align="center">
+ <h1>Hi 👋, I'm Fikremariam, but feel free to call me FIKRE! ፍቅረማርያም</h1>
   <img width="1000" height="400" alt="mern" src="https://github.com/user-attachments/assets/348ddfcd-0518-4332-8657-3277350fda1d" />
 </p>
+<br />
+<p align="left"><strong>
+  Full Stack Developer (MERN) | JavaScript | React | Node.js | Express | MySQL | MongoDB
+</strong></p>
+<br />
 
-<h1 align="center">Hi 👋, I'm Fikremariam, but feel free to call me FIKRE!</h1>
 
-<p align="left">Full Stack Developer (MERN) | JavaScript | React | Node.js | Express | MySQL | MongoDB</p>
 <!-- profile Image -->
 <!-- <img align="right" width="400" alt="mern" src="https://github.com/user-attachments/assets/348ddfcd-0518-4332-8657-3277350fda1d" /> -->
 
