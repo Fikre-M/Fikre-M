@@ -28,7 +28,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Fikre-M&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikre-M&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikre-M&theme=github-compact)](https://github.com/Fikre-M)
+
 
 
 
