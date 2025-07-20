@@ -28,13 +28,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Fikre-M&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Top Repository Highlights
-
-| Repository                                             | Description           | Stats                                                                                                    |
-|--------------------------------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------|
-| [M](https://github.com/Fikre-M/M)                      | CLI utility project   | ![Stars](https://img.shields.io/github/stars/Fikre-M/M?style=social) ![Forks](https://img.shields.io/github/forks/Fikre-M/M?style=social) |
-| [ProjectX](https://github.com/Fikre-M/ProjectX)        | AI experiments        | ![Stars](https://img.shields.io/github/stars/Fikre-M/ProjectX?style=social) ![Forks](https://img.shields.io/github/forks/Fikre-M/ProjectX?style=social) |
-
 
 [![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikre-M&theme=github-compact)](https://github.com/Fikre-M)
 
