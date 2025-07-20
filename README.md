@@ -28,6 +28,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Fikre-M&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 Top Repository Highlights
+
+| Repository | Description | Stats |
+|---|---|---|
+| [MyBestRepo](https://github.com/Fikre-M/MyBestRepo) | A powerful MERN app | ![Stars](https://img.shields.io/github/stars/Fikre-M/MyBestRepo?style=social) ![Forks](https://img.shields.io/github/forks/Fikre-M/MyBestRepo?style=social) |
+| [AwesomeProject](https://github.com/Fikre-M/AwesomeProject) | A React library | ![Stars](https://img.shields.io/github/stars/Fikre-M/AwesomeProject?style=social) ![Forks](https://img.shields.io/github/forks/Fikre-M/AwesomeProject?style=social) |
+
+
 [![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikre-M&theme=github-compact)](https://github.com/Fikre-M)
 
 
