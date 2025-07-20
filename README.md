@@ -30,10 +30,10 @@
 
 ## 🚀 Top Repository Highlights
 
-| Repository | Description | Stats |
-|---|---|---|
-| [MyBestRepo](https://github.com/Fikre-M/MyBestRepo) | A powerful MERN app | ![Stars](https://img.shields.io/github/stars/Fikre-M/MyBestRepo?style=social) ![Forks](https://img.shields.io/github/forks/Fikre-M/MyBestRepo?style=social) |
-| [AwesomeProject](https://github.com/Fikre-M/AwesomeProject) | A React library | ![Stars](https://img.shields.io/github/stars/Fikre-M/AwesomeProject?style=social) ![Forks](https://img.shields.io/github/forks/Fikre-M/AwesomeProject?style=social) |
+| Repository                                             | Description           | Stats                                                                                                    |
+|--------------------------------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------|
+| [M](https://github.com/Fikre-M/M)                      | CLI utility project   | ![Stars](https://img.shields.io/github/stars/Fikre-M/M?style=social) ![Forks](https://img.shields.io/github/forks/Fikre-M/M?style=social) |
+| [ProjectX](https://github.com/Fikre-M/ProjectX)        | AI experiments        | ![Stars](https://img.shields.io/github/stars/Fikre-M/ProjectX?style=social) ![Forks](https://img.shields.io/github/forks/Fikre-M/ProjectX?style=social) |
 
 
 [![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikre-M&theme=github-compact)](https://github.com/Fikre-M)
