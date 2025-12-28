@@ -1,12 +1,12 @@
 <!-- Banner Image -->
 <p align="center">
  <h1>Hi 👋, I'm Fikremariam ( ፍቅረማርያም) - but you call me FIKRE!</h1>
- <h3>I am a Junior Web Developer / Software Engineer building modern web apps with React and TypeScript/JavaScript</h3>
+ <h3>Web Developer / Software Engineer building modern web apps with React and TypeScript/JavaScript</h3>
   <img width="1000" height="400" alt="mern" src="https://github.com/user-attachments/assets/348ddfcd-0518-4332-8657-3277350fda1d" />
 </p>
 <br />
 <p align="left"><strong>
-  Full Stack Developer (MERN) | JavaScript | React | Node.js | Express | MySQL | MongoDB
+  Full Stack Developer (MERN) | JavaScript | TypeScript | React | Node.js | Express | MySQL | MongoDB
 </strong></p>
 <br />
 
