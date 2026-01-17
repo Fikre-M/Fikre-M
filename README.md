@@ -20,7 +20,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fikremariam-kassa-28916062/) [![Pinterest](https://pin.it/3jeo5MFWI) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fikremariam-kassa-28916062/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=pinterest&logoColor=white)](https://pin.it/3jeo5MFWI)
+
 
 
 # 💻 Tech Stack:
