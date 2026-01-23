@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
- <h1>Hi 👋, I'm Fikremariam ( ፍቅረማርያም) - but you call me FIKRE!</h1>
+ <h1>Hi!!, 
+  I'm Fikremariam - but you call me FIKRE</h1>
  <h3><center>Web Developer / Software Engineer building modern web apps with React and JavaScript / TypeScript</center></h3>
   <img width="1000" height="400" alt="mern" src="https://github.com/user-attachments/assets/348ddfcd-0518-4332-8657-3277350fda1d" />
 </p>
