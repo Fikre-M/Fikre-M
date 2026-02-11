@@ -27,6 +27,7 @@
 ## 👨‍💻 **About Me**
 
 ```javascript
+
 const fikre = {
   pronouns: "he/him",
   role: "Full-Stack Developer",
@@ -36,7 +37,6 @@ const fikre = {
   philosophy: "Solve the problem, then write the code",
   typingSpeed: "75 WPM (375 KPH)"
 };
-
 🌐 Connect With Me
 <div align="center">
 https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
@@ -89,5 +89,69 @@ https://img.shields.io/badge/Canva-%252300C4CC.svg?style=for-the-badge&logo=Canv
 📊 GitHub Analytics
 <div align="center"><!-- Stats Cards --><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fikre-M&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fikre-M&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00" /><!-- Languages & Trophies --><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikre-M&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00" /> <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Fikre-M&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" /></div>
 📈 Activity & Contributions
-https://github-readme-activity-graph.vercel.app/graph?username=Fikre-M&theme=github-dark&custom_title=Fikre's%2520Development%2520Activity&hide_border=true&area=true&point=00FF00&line=00FF00&area_color=00FF00
+https://github-readme-activity-graph.vercel.app/graph?username=Fikre-M&theme=github-compact
 
+🎯 Currently Focused On
+<table> <tr> <td width="33%">
+🔭 Building
+
+SaaS Platform (Next.js 14)
+
+AI-integrated web apps
+
+Scalable backend APIs
+
+</td> <td width="33%">
+🌱 Learning
+
+Advanced AWS Services
+
+Microservices Architecture
+
+GraphQL & Apollo
+
+</td> <td width="33%">
+💪 Strengths
+
+Performance Optimization
+
+Clean Code Architecture
+
+Agile/Scrum Methodology
+
+</td> </tr> </table>
+🏆 Achievements & Metrics
+<div align="center">
+yaml
+Performance Improvements:
+  - Application Speed: ↑ 40%
+  - Deployment Errors: ↓ 30%
+  - User Engagement: ↑ 25%
+  
+Development Efficiency:
+  - Typing Speed: 75 WPM (375 KPH)
+  - Feature Delivery: Ahead of schedule
+  - Code Quality: High maintainability
+</div>
+📫 Let's Collaborate!
+<div align="center">
+https://img.shields.io/badge/Open%2520Source-%2523F05032.svg?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Hire%2520Me-%252300C853.svg?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/View%2520Projects-%2523000000.svg?style=for-the-badge&logo=github&logoColor=white
+
+</div>
+<div align="center">
+https://visitcount.itsvg.in/api?id=Fikre-M&icon=0&color=0
+https://img.shields.io/github/followers/Fikre-M?color=00FF00&style=flat-square&label=FOLLOWERS
+
+<p>⭐️ <strong>Thanks for visiting! Let's build something amazing together.</strong> ⭐️</p></div>
+<details> <summary>📅 <strong>Weekly Development Breakdown</strong></summary> <br />
+</details><details> <summary>🎵 <strong>Coding Soundtrack</strong></summary> <br />
+https://spotify-readme-vercel.vercel.app/api/spotify?background_color=0d1117&border_color=00ff00
+
+</details>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontColor=ffffff" /> </p>
+✨ "The best way to predict the future is to create it." - Peter Drucker
+
+<!-- Proudly created with enhancements for Fikre-M -->
+text
