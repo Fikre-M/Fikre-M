@@ -1,33 +1,29 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
- <h1><center>Hi, 
-  I'm Fikremariam - but you call me FIKRE!!</center></h1>
- <h3><center>AI Web Developer | Software Engineer (Full Stack - MERN) | Crafting modern web apps with React, JavaScript/TypeScript | Passionate about innovation and problem-solving</center></h3>
   <img width="1000" height="400" alt="mern" src="https://github.com/user-attachments/assets/348ddfcd-0518-4332-8657-3277350fda1d" />
 </p>
-<br />
+
+<h1 align="center">Hi, I'm Fikremariam — but you can call me <strong>FIKRE</strong> 👋</h1>
+
+<h3 align="center">
+AI Web Developer | Software Engineer (Full Stack - MERN) <br/>
+Crafting modern web apps with React, TypeScript & AI integration <br/>
+Passionate about innovation, scalability, and problem-solving
+</h3>
+
+<br/>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Building+Scalable+Full-Stack+Applications;Transforming+Ideas+into+Functional+Code;Passionate+About+Clean+Architecture+%26+Performance)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Building+Scalable+Full-Stack+Applications;Transforming+Ideas+into+Production+Systems;AI-Driven+Web+Development;Clean+Architecture+%7C+High+Performance+%7C+Modern+UX)](https://git.io/typing-svg)
 
 </div>
 
-<br />
-<p align="left">
- <strong>
-  <center>
-   Full Stack Developer (MERN) | JavaScript | TypeScript | React | Node.js | Express | MySQL | MongoDB
-  </center>
-</strong>
-</p>
-<br />
+---
 
-<!-- Profile Overview -->
-## 👨‍💻 **About Me**
+## 👨‍💻 About Me
 
 ```javascript
-
 const fikre = {
   pronouns: "he/him",
   role: "Full-Stack Developer",
@@ -39,62 +35,45 @@ const fikre = {
 };
 🌐 Connect With Me
 <div align="center">
-https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Portfolio-%2523000000.svg?style=for-the-badge&logo=react&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Pinterest-%2523BD081C.svg?style=for-the-badge&logo=pinterest&logoColor=white
+
+
+
+
 
 </div>
 🚀 Featured Projects
 <table> <tr> <td width="50%" valign="top">
-Full-Stack Applications
-<p align="center"> <strong>📊 TaskFlow Manager</strong><br/> MERN Stack • TypeScript • Socket.io • Tailwind<br/> Productivity dashboard with real-time updates </p> <p align="center"> <strong>🛒 E-Commerce Platform</strong><br/> React • Node.js • MySQL • AWS • Firebase<br/> Complete e-commerce with admin analytics </p></td> <td width="50%" valign="top">
-Frontend Applications
-<p align="center"> <strong>🌦️ Weather Dashboard</strong><br/> React • OpenWeather API • Context API<br/> Interactive weather with geolocation </p> <p align="center"> <strong>🎨 UI Component Library</strong><br/> TypeScript • Storybook • Styled-Components<br/> Reusable, typed component system </p></td> </tr> </table>
+🔹 Full-Stack Applications
+<p align="center"> <strong>📊 TaskFlow Manager</strong><br/> MERN • TypeScript • Socket.io • Tailwind<br/> Real-time productivity dashboard </p> <p align="center"> <strong>🛒 E-Commerce Platform</strong><br/> React • Node.js • MySQL • AWS • Firebase<br/> Full e-commerce system with admin analytics </p> </td> <td width="50%" valign="top">
+🔹 Frontend Applications
+<p align="center"> <strong>🌦️ Weather Dashboard</strong><br/> React • OpenWeather API • Context API<br/> Geolocation-based weather app </p> <p align="center"> <strong>🎨 UI Component Library</strong><br/> TypeScript • Storybook • Styled-Components<br/> Reusable enterprise UI system </p> </td> </tr> </table>
 💻 Tech Stack
-Frontend Development
-https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB
-https://img.shields.io/badge/typescript-%2523007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E
-https://img.shields.io/badge/html5-%2523E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/css3-%25231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/tailwindcss-%252338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/bootstrap-%25238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
-https://img.shields.io/badge/vite-%2523646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
-https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+🎨 Frontend
 
-Backend & Databases
-https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/express.js-%2523404d59.svg?style=for-the-badge&logo=express&logoColor=%252361DAFB
-https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/postgresql-%2523316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/firebase-%2523039BE5.svg?style=for-the-badge&logo=firebase
 
-Cloud & DevOps
-https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/githubactions-%25232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
-https://img.shields.io/badge/docker-%25230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 
-Tools & Design
-https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-https://img.shields.io/badge/-jest-%2523C21325?style=for-the-badge&logo=jest&logoColor=white
-https://img.shields.io/badge/figma-%2523F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
-https://img.shields.io/badge/adobe%2520photoshop-%252331A8FF.svg?style=for-the-badge&logo=adobe%2520photoshop&logoColor=white
-https://img.shields.io/badge/Canva-%252300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white
+
+
+
+
+
+🧠 Backend & Databases
+
+
+
+
+
+
+☁ Cloud & DevOps
+
+
+
 
 📊 GitHub Analytics
-<div align="center"><!-- Stats Cards --><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fikre-M&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fikre-M&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00" /><!-- Languages & Trophies --><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikre-M&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00" /> <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Fikre-M&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" /></div>
-📈 Activity & Contributions
-https://github-readme-activity-graph.vercel.app/graph?username=Fikre-M&theme=github-compact
-
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fikre-M&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fikre-M&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikre-M&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00" /> <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Fikre-M&theme=onedark&no-frame=true&row=2&column=3" /> </div>
 🎯 Currently Focused On
 <table> <tr> <td width="33%">
 🔭 Building
-
 SaaS Platform (Next.js 14)
 
 AI-integrated web apps
@@ -103,7 +82,6 @@ Scalable backend APIs
 
 </td> <td width="33%">
 🌱 Learning
-
 Advanced AWS Services
 
 Microservices Architecture
@@ -112,46 +90,34 @@ GraphQL & Apollo
 
 </td> <td width="33%">
 💪 Strengths
-
 Performance Optimization
 
-Clean Code Architecture
+Clean Architecture
 
-Agile/Scrum Methodology
+Agile / Scrum
+
+System Design
 
 </td> </tr> </table>
 🏆 Achievements & Metrics
-<div align="center">
-yaml
 Performance Improvements:
-  - Application Speed: ↑ 40%
-  - Deployment Errors: ↓ 30%
-  - User Engagement: ↑ 25%
-  
+  - Application Speed: +40%
+  - Deployment Errors: -30%
+  - User Engagement: +25%
+
 Development Efficiency:
-  - Typing Speed: 75 WPM (375 KPH)
+  - Typing Speed: 75 WPM
   - Feature Delivery: Ahead of schedule
   - Code Quality: High maintainability
-</div>
 📫 Let's Collaborate!
 <div align="center">
-https://img.shields.io/badge/Open%2520Source-%2523F05032.svg?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Hire%2520Me-%252300C853.svg?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/View%2520Projects-%2523000000.svg?style=for-the-badge&logo=github&logoColor=white
+
+
 
 </div>
-<div align="center">
-https://visitcount.itsvg.in/api?id=Fikre-M&icon=0&color=0
-https://img.shields.io/github/followers/Fikre-M?color=00FF00&style=flat-square&label=FOLLOWERS
+<div align="center"> <img src="https://visitcount.itsvg.in/api?id=Fikre-M&icon=0&color=0" /> <img src="https://img.shields.io/github/followers/Fikre-M?color=00FF00&style=flat-square&label=FOLLOWERS" /> </div>
+<details> <summary>📅 <strong>Weekly Development Breakdown</strong></summary> <br/> Coming soon... </details> <details> <summary>🎵 <strong>Coding Soundtrack</strong></summary> <br/>
 
-<p>⭐️ <strong>Thanks for visiting! Let's build something amazing together.</strong> ⭐️</p></div>
-<details> <summary>📅 <strong>Weekly Development Breakdown</strong></summary> <br />
-</details><details> <summary>🎵 <strong>Coding Soundtrack</strong></summary> <br />
-https://spotify-readme-vercel.vercel.app/api/spotify?background_color=0d1117&border_color=00ff00
 
 </details>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontColor=ffffff" /> </p>
-✨ "The best way to predict the future is to create it." - Peter Drucker
-
-<!-- Proudly created with enhancements for Fikre-M -->
-text
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontColor=ffffff" /> </p> <p align="center"> ✨ <em>"The best way to predict the future is to create it."</em> — Peter Drucker </p> <p align="center"> ⭐️ <strong>Thanks for visiting! Let's build something amazing together.</strong> ⭐️ </p> ```
