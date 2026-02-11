@@ -26,6 +26,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=pinterest&logoColor=white)](https://pin.it/3jeo5MFWI)
 
 <br />
+
 ## 💻 Tech Stack
 
 ### Frontend
