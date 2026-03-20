@@ -16,7 +16,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
-### ðŸ§  About Me
+ About Me
 
 ```yaml
 name: Fikremariam Kassa
@@ -38,11 +38,11 @@ fun_fact: "I think I'm funny ðŸ˜„"
 
 ---
 
-## ðŸ› ï¸ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### âš¡ Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,26 +52,26 @@ fun_fact: "I think I'm funny ðŸ˜„"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ðŸ”§ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ðŸ—„ï¸ Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### â˜ï¸ Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### ðŸ§° Tools & Methods
+### Tools & Methods
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -84,7 +84,7 @@ fun_fact: "I think I'm funny ðŸ˜„"
 
 ---
 
-## ðŸ† Core Competencies
+## Core Competencies
 
 <div align="center">
 
@@ -104,7 +104,7 @@ fun_fact: "I think I'm funny ðŸ˜„"
 
 ---
 
-## ðŸ“Š GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fikre-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
@@ -117,7 +117,7 @@ fun_fact: "I think I'm funny ðŸ˜„"
 
 ---
 
-## ðŸ“ˆ Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -127,7 +127,7 @@ fun_fact: "I think I'm funny ðŸ˜„"
 
 ---
 
-## ðŸ… GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -137,7 +137,7 @@ fun_fact: "I think I'm funny ðŸ˜„"
 
 ---
 
-## ðŸ¤ Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -152,13 +152,13 @@ fun_fact: "I think I'm funny ðŸ˜„"
 
 <div align="center">
 
-### ðŸ’¡ *"Any application that can be written in JavaScript, will eventually be written in JavaScript."* â€” Atwood's Law
+### "Any application that can be written in JavaScript, will eventually be written in JavaScript."Atwood's Law
 
 <br/>
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=Fikre-M&label=Profile%20Views&color=6&icon=5&pretty=true)
 
-**ðŸ’¼ Open to exciting opportunities & collaborations â€” let's build something remarkable together!**
+**Open to exciting opportunities & collaborations â€” let's build something remarkable together!**
 
 </div>
 
