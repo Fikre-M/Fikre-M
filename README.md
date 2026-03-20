@@ -1,113 +1,166 @@
-<!-- Banner Image -->
-<p align="center">
-  <img width="1000" height="400" alt="MERN Stack Developer Banner" src="https://github.com/user-attachments/assets/348ddfcd-0518-4332-8657-3277350fda1d" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Fikremariam - Call me FIKRE!</h1>
-<h3 align="center">Full Stack Developer (MERN) | AI Web Developer | Software Engineer</h3>
-<p align="center">Crafting modern web applications with React, JavaScript/TypeScript | Passionate about innovation and problem-solving</p>
+<!-- DYNAMIC HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=FIKRE&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Web%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
 
-<br />
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🔭 I'm a **Full Stack Developer** specializing in the **MERN stack**
-- 🌱 Currently exploring **AI integration** in web development
-- 💬 Ask me about **React, Node.js, Express, MongoDB, MySQL**
-- 📫 Reach me at **fikre21@aol.com**
-- 📄 Check out my [resume](resume link) and [portfolio](profile link)
-- ⚡ Fun fact: **I think I'm funny** 😄
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Fikremariam+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Building+AI-Powered+Web+Applications;Turning+Ideas+Into+Elegant+Solutions)](https://git.io/typing-svg)
 
-<br />
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikremariam-kassa-28916062/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=pinterest&logoColor=white)](https://pin.it/3jeo5MFWI)
-
-<br />
-
-## 💻 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools & Methods
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Professional Competencies
-```
-Performance Optimization | Agile Development | Cross-functional Collaboration
-Technical Mentoring | System Architecture | User-Centric Design
-```
-
-<br />
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fikre-M&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Fikre-M&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikre-M&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-<br />
-
-## 📈 Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikre-M&theme=github-compact)](https://github.com/Fikre-M)
-
-<br />
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Fikre-M&icon=0&color=0" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
-<p align="center">💼 Open for collaboration and exciting opportunities!</p>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ðŸ§  About Me
+
+```yaml
+name: Fikremariam Kassa
+alias: "Fikre"
+role: Full Stack Developer (MERN)
+location: Available Worldwide ðŸŒ
+focus:
+  - Scalable Web Applications
+  - AI Integration in Web Dev
+  - Clean Architecture & DX
+currently_learning:
+  - AI/LLM API Integration
+  - Microservices & System Design
+philosophy: "Code is poetry â€” write it beautifully"
+fun_fact: "I think I'm funny ðŸ˜„"
+```
+
+<br clear="right"/>
+
+---
+
+## ðŸ› ï¸ Tech Arsenal
+
+<div align="center">
+
+### âš¡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ðŸ”§ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### ðŸ—„ï¸ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### â˜ï¸ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### ðŸ§° Tools & Methods
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## ðŸ† Core Competencies
+
+<div align="center">
+
+| ðŸŽ¨ Frontend Mastery | âš™ï¸ Backend Architecture | ðŸ¤– AI Integration |
+|:---:|:---:|:---:|
+| Pixel-perfect UIs with React + TypeScript | RESTful APIs & Microservices | LLM API Integration |
+| Performance Optimization | JWT Auth & Security Best Practices | AI-Powered Features |
+| Responsive & Accessible Design | Database Design & Optimization | Prompt Engineering |
+
+| ðŸš€ DevOps & Cloud | ðŸ¤ Collaboration | ðŸ“ Engineering |
+|:---:|:---:|:---:|
+| Docker, AWS, CI/CD Pipelines | Agile / Scrum Methodology | System Architecture |
+| Deployment & Scaling | Technical Mentoring | Code Review & Quality |
+| GitHub Actions Automation | Cross-functional Teams | Test-Driven Development |
+
+</div>
+
+---
+
+## ðŸ“Š GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fikre-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikre-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Fikre-M&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+</div>
+
+---
+
+## ðŸ“ˆ Contribution Graph
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikre-M&bg_color=0d1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&area_color=2D1B69&hide_border=true)](https://github.com/Fikre-M)
+
+</div>
+
+---
+
+## ðŸ… GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fikre-M&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ðŸ¤ Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikremariam-kassa-28916062/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Follow-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/3jeo5MFWI)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fikre21@aol.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Fikre-M)
+
+</div>
+
+---
+
+<div align="center">
+
+### ðŸ’¡ *"Any application that can be written in JavaScript, will eventually be written in JavaScript."* â€” Atwood's Law
+
+<br/>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Fikre-M&label=Profile%20Views&color=6&icon=5&pretty=true)
+
+**ðŸ’¼ Open to exciting opportunities & collaborations â€” let's build something remarkable together!**
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
