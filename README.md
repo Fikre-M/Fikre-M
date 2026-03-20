@@ -144,7 +144,8 @@ fun_fact: "I think I'm funny"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikremariam-kassa-28916062/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-Follow-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/3jeo5MFWI)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fikre21@aol.com)
-[![Portfolio](https://portfolio-tau-five-dqhmersn7z.vercel.app/)](https://github.com/Fikre-M)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Fikre-M)
+
 
 </div>
 
