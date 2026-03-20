@@ -22,7 +22,7 @@
 name: Fikremariam Kassa
 alias: "Fikre"
 role: Full Stack Developer (MERN)
-location: Available Worldwide ðŸŒ
+location: Available Worldwide
 focus:
   - Scalable Web Applications
   - AI Integration in Web Dev
@@ -30,8 +30,8 @@ focus:
 currently_learning:
   - AI/LLM API Integration
   - Microservices & System Design
-philosophy: "Code is poetry â€” write it beautifully"
-fun_fact: "I think I'm funny ðŸ˜„"
+philosophy: "Code is poetry write it beautifully"
+fun_fact: "I think I'm funny"
 ```
 
 <br clear="right"/>
@@ -88,13 +88,13 @@ fun_fact: "I think I'm funny ðŸ˜„"
 
 <div align="center">
 
-| ðŸŽ¨ Frontend Mastery | âš™ï¸ Backend Architecture | ðŸ¤– AI Integration |
+| Frontend Mastery | Backend Architecture | AI Integration |
 |:---:|:---:|:---:|
 | Pixel-perfect UIs with React + TypeScript | RESTful APIs & Microservices | LLM API Integration |
 | Performance Optimization | JWT Auth & Security Best Practices | AI-Powered Features |
 | Responsive & Accessible Design | Database Design & Optimization | Prompt Engineering |
 
-| ðŸš€ DevOps & Cloud | ðŸ¤ Collaboration | ðŸ“ Engineering |
+| DevOps & Cloud | Collaboration | Engineering |
 |:---:|:---:|:---:|
 | Docker, AWS, CI/CD Pipelines | Agile / Scrum Methodology | System Architecture |
 | Deployment & Scaling | Technical Mentoring | Code Review & Quality |
@@ -144,7 +144,7 @@ fun_fact: "I think I'm funny ðŸ˜„"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikremariam-kassa-28916062/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-Follow-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/3jeo5MFWI)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fikre21@aol.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Fikre-M)
+[![Portfolio](https://portfolio-tau-five-dqhmersn7z.vercel.app/)](https://github.com/Fikre-M)
 
 </div>
 
@@ -158,7 +158,7 @@ fun_fact: "I think I'm funny ðŸ˜„"
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=Fikre-M&label=Profile%20Views&color=6&icon=5&pretty=true)
 
-**Open to exciting opportunities & collaborations â€” let's build something remarkable together!**
+**Open to exciting opportunities & collaborations let's build something remarkable together!**
 
 </div>
 
