@@ -131,13 +131,6 @@ fun_fact: "I think I'm funny 😄"
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fikre-M&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -160,7 +153,7 @@ fun_fact: "I think I'm funny 😄"
 
 <br/>
 
-![Profile Views]([https://visitcount.itsvg.in/api?id=Fikre-M&label=Profile%20Views&color=6&icon=5&pretty=true]( [)](https://portfolio-tau-five-dqhmersn7z.vercel.app/)
+
 
 **💼 Open to exciting opportunities & collaborations — let's build something remarkable together!**
 
