@@ -21,7 +21,7 @@
 ```yaml
 name: Fikremariam Kassa
 alias: "Fikre"
-role: Full Stack Developer (MERN)
+role: AI & Full Stack Developer (MERN)
 location: Available Worldwide 🌍
 focus:
   - Scalable Web Applications
@@ -30,7 +30,7 @@ focus:
 currently_learning:
   - AI/LLM API Integration
   - Microservices & System Design
-philosophy: "Code is poetry — write it beautifully"
+philosophy: "Decoding the Past, Engineering the Future"
 fun_fact: "I think I'm funny 😄"
 ```
 
