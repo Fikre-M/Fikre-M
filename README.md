@@ -22,7 +22,6 @@
 name: Fikremariam Kassa
 alias: "Fikre"
 role: AI & Full Stack Developer (MERN)
-location: Available Worldwide 🌍
 focus:
   - Scalable Web Applications
   - AI Integration in Web Dev
@@ -110,14 +109,15 @@ fun_fact: "I think I'm funny 😄"
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fikre-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikre-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fikre-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikre-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Fikre-M&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
+</p>
+
 
 ---
 
